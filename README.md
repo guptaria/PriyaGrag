@@ -1,6 +1,8 @@
 # PriyaGrag
 ## Priya Garg
 ![Github stats](https://github-readme-stats.vercel.app/api?username=guptaria)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=guptaria)
+
 About Me :
 Passionate Full Stack web developer with certification in full stack web development from University of Texas in Austin and Master with Bachelor's of Engineering in Information Technology from Shivaji University, India. Effective at combining logical thinking and problem solving to develop user-friendly applications. Proactive in learning new skills and knowledge with core competency in full stack web development such as Javascript, jQuery, HTML, CSS, MERN Stack, SQL, REST API’s.
 
